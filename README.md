@@ -27,7 +27,7 @@
 
 ### 🧠 About Me
 
-- 🎓 Currently pursuing **B.Tech in Computer Science & Engineering (Cyber Security)** at Parul University, Gujarat (2022–2026)
+- 🎓 Currently pursuing **B.Tech in Electronic and Communication Engineering ** at BVRIT NARSAPUR  (2022–2026)
 - 🌱 Motivated Computer Science fresher passionate about **Cloud Computing and Cloud Architecture**
 - ☁️ Learning Google Cloud, networking, Linux, Docker, Kubernetes, Terraform, and cloud security to design and manage scalable, secure cloud solutions
 - 🤝 Looking forward to learning from experienced professionals while contributing to real-world cloud projects
